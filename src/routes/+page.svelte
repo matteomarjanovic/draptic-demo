@@ -69,6 +69,7 @@
                     <input
                         type="email"
                         bind:value={email}
+                        name="email"
                         placeholder="Enter your email"
                         class="input input-bordered w-full"
                         required
@@ -84,7 +85,7 @@
     <!-- Footer -->
     <footer class="footer footer-center p-10 bg-base-300 text-base-content">
         <div>
-            <p>Copyright © 2023 - All rights reserved by Draptic</p>
+            <p>© 2025 - All rights reserved by Draptic</p>
         </div>
     </footer>
 </div>
