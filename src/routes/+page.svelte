@@ -8,6 +8,15 @@
 </script>
 
 <svelte:head>
+    <title>Draptic</title>
+    <meta
+        name="description"
+        content="Transform your garment images into professional technical flat sketches instantly with AI-powered technology."
+    />
+    <meta
+        name="keywords"
+        content="draptic, garment, images, technical, flat, sketches, AI, technology"
+    />
     <script
         type="module"
         src="https://gradio.s3-us-west-2.amazonaws.com/5.0.1/gradio.js"
